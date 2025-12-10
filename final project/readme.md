@@ -54,13 +54,13 @@ Are there meaningful differences in flavor attributes or overall quality across 
 
 This project uses:
 
-- **R** (tidyverse, ggplot2, broom, cluster, factoextra, etc.)
+- **R** (tidyverse, ggplot2, cluster, etc.)
 - **Jupyter Notebook with R kernel**
 - **Binder/GitHub setup** 
 
 To reproduce the analysis:
 
-1. Open `final_project.ipynb` in Jupyter  
+1. Open `Final project.ipynb` in Jupyter  
 2. Run all cells 
 
 ---
