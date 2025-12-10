@@ -31,9 +31,8 @@ This project applies the three analytical methods required by the BIOS 512 final
 
 - **Dimensionality Reduction (PCA)**
 - **Clustering (K-means)**
-- **Regression (Linear Regression)**
 
-The analysis focuses on understanding what factors contribute to variation in coffee quality scores.
+The analysis focuses on understanding how factors contribute to variation in coffee quality scores.
 
 ---
 
