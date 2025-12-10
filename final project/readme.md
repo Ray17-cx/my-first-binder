@@ -56,7 +56,7 @@ This project uses:
 
 - **R** (tidyverse, ggplot2, broom, cluster, factoextra, etc.)
 - **Jupyter Notebook with R kernel**
-- **Binder/GitHub setup** as required by BIOS 512
+- **Binder/GitHub setup** 
 
 To reproduce the analysis:
 
